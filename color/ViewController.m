@@ -73,7 +73,7 @@
     int bytesPerPixel = 4;
     int bytesPerRow = bytesPerPixel * 1;
     NSUInteger bitsPerComponent = 8;
-    long rs=0,gs=0,bs=0,as=0,n=0,t=0;
+    long rs=0,gs=0,bs=0,as=0,n=0;
     unsigned char pixelData[4];
     CGContextRef context = CGBitmapContextCreate(pixelData,1,1,bitsPerComponent,bytesPerRow,colorSpace,kCGImageAlphaPremultipliedLast | kCGBitmapByteOrder32Big);
     CGColorSpaceRelease(colorSpace);
