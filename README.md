@@ -3,7 +3,7 @@ An iOS app which can predict concentration of 2,6-pyridinedicarboxylic acid acco
 
 **Author**: Jinzhe Zeng
 
-**Email**: njzjz@qq.com 10154601140@stu.ecnu.edu.cn
+**Email**: jzzeng@stu.ecnu.edu.cn
 
 [Download](https://github.com/njzjz/Color-iOS/releases/download/1.0/color.ipa)
 
